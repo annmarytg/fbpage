@@ -1,0 +1,105 @@
+.header{
+    background-color: #3b5998;
+    width: 100%;
+    height: 100px;
+
+}
+body{
+    margin:0;
+    font-family: Helvetica, Arial, sans-serif;
+
+
+}
+.logo{
+    width:50%;
+    padding-top: 32px;
+    float: left;
+
+}
+.login{
+    width:100%;
+    padding-top: 10px;
+    
+}
+.logo-text{
+    color:#ffff;
+    font-size: 35px;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: Helvetica, Arial, sans-serif;
+    margin-top: 10px;
+    margin-left: 170px;
+}
+.login-label{
+    color: #ffff;
+    font-size: 11px;
+}
+.login-controls{
+    margin-left: 115px;
+}
+
+.sub-btn{
+    background-color: #4065d5;
+    color: #fff;
+    height: 25px;
+    border-radius: 4px;
+    cursor: pointer;
+    
+}
+.sub-btn:hover{
+    background:lightskyblue;
+}
+
+.forgotten{
+    font-size: 11px;
+    text-decoration:none;
+    color: #9cb4d8;
+}
+.left-section{
+    color: #0d43e8;
+    width: 60%;
+    float:left;
+}
+.right-section{
+    width: 40%;
+    float:left;
+}
+.main-body{
+    background: linear-gradient(white,#bfc2d3);
+    width: 100%;
+    height: 500px;
+    padding-left: 100px; 
+}
+img{
+    width: 700px;
+}
+.sub-btn2{
+    background-color:darkgreen;
+    color: #fff;
+    height: 35px;
+    width: 100px;
+    border:none;
+    border-radius: 4px;
+    cursor: pointer;
+    
+}
+.sub-btn2:hover{
+    background: rgb(88, 143, 5);
+}
+.terms{
+    font-size: 11px;
+    text-decoration:none;
+    color: #1c5fc2;
+}
+input[type="text"]{
+   height: 25px; 
+}
+.mob{
+    width:67%;
+ }
+ 
+ 
+ 
+ 
+
+
